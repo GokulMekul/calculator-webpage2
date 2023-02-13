@@ -1,0 +1,60 @@
+body{
+    background-color: rgb(255, 255, 255);
+text-align: center;
+margin-top: 60px;
+margin-right: 50px;
+margin-bottom: 50px;
+}
+
+#calci{
+    background-color: rgb(43, 42, 42);
+    display: inline-block;
+    padding: 85px;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+    border-radius: 50px 2px 50px;
+    box-shadow: 10px 2px 10px 2px rgb(255, 255, 255);
+    color:aliceblue;
+    
+}
+#input1{
+    margin-bottom: 5px;
+    background-color: rgb(255, 255, 255);
+    width:300px;
+    height:40px ;
+    margin-top: 10px;
+ }
+ #input2{
+    margin-bottom: 5px;
+    background-color: rgb(255, 255, 255);
+    width:300px;
+    height:40px ;
+ }
+#buttons{
+
+    font-size: 25px;
+    
+  
+}
+
+#buttonsec1{
+    padding: 10px;
+ 
+}
+#buttonsec2{
+    padding: 10px;
+}
+.inputalert{
+    background-color: rgb(255, 255, 255);
+    color:rgb(68, 65, 65);
+    margin-top: 11px;
+    padding: 10px;
+   border-radius: 10px 0px;
+
+
+}
+#output{
+    margin-bottom: 5px;
+   
+    width:300px;
+    height:40px ;
+}
